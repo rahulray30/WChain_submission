@@ -76,20 +76,7 @@ A time-bound lottery system where only whitelisted participants can join. Each p
 4. **Finalization**
    - After the lottery ends, the winner is selected automatically, and the prize pool is transferred.
 
----
 
-## **Future Improvements**
 
-1. **Enhanced Randomness**
-   - Replace the pseudo-random number generator with a more secure solution like Chainlink VRF.
 
-2. **Prize Distribution**
-   - Support splitting the prize pool among multiple winners.
 
-3. **Dynamic Whitelisting**
-   - Enable dynamic additions to the whitelist during the lottery period.
-
----
-
-## **Contact**
-For any questions or support, please contact the development team at [your-email@example.com].
